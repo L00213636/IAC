@@ -1,0 +1,18 @@
+==========================================
+       MONTHLY USER LOGIN/LOGOUT REPORT
+==========================================
+Report Month: November2026
+Generated On: 16-11-2026 12:35:40 UTC
+
+USER LOGIN AND LOGOUT HISTORY
+
+pawan    pts/0        185.99.26.162    Mon Nov 16 09:33:11 2026   still logged in
+pawan    pts/0        185.99.26.162    Mon Nov 16 09:22:01 2026 - Mon Nov 16 09:33:02 2026  (00:11)
+reboot   system boot  7.0.0-1017-azure Mon Nov 16 09:19:29 2026   still running
+pawan    pts/0        185.99.26.162    Sun Nov 15 19:02:19 2026 - Sun Nov 15 20:40:45 2026  (01:38)
+reboot   system boot  7.0.0-1017-azure Sun Nov 15 19:01:59 2026 - Sun Nov 15 20:41:33 2026  (01:39)
+pawan    pts/0        185.99.26.162    Sun Nov 15 17:20:17 2026 - Sun Nov 15 17:28:38 2026  (00:08)
+pawan    pts/0        185.99.26.162    Sun Nov 15 17:04:44 2026 - Sun Nov 15 17:20:08 2026  (00:15)
+reboot   system boot  7.0.0-1017-azure Sun Nov 15 16:50:15 2026 - Sun Nov 15 17:28:57 2026  (00:38)
+
+wtmp begins Sun Nov 15 16:50:15 2026
